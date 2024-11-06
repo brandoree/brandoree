@@ -1,3 +1,5 @@
 {
-  "cssTheme": "AnuPpuccin"
+  "theme": "moonstone",
+  "accentColor": "#5cdbf5",
+  "cssTheme": "Primary"
 }

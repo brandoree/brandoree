@@ -1,0 +1,16 @@
+## 火炎纹章系列
+![[81b75677d8826da9b8e04daa63acf0fd_v2-c80307ff13a0eeca96264308ad829773_1440w_source=2c26e567 1.webp]]
+## 怪物猎人
+![[2c8e9e82a7b976f49f8d1ff302b5c153_v2-d5c3f86107a67ce40381978f98089719_1440w_source=2c26e567.webp]]
+## 新 光之神话
+![[c8ddd1001bb44fe8901615f69bd333c0_v2-4465547b7903ef6cfa7a64e57a0b2e0e_1440w_source=2c26e567.webp]]
+## 塞尔达传说 众神三角力量2
+![[00351f62f9280a41ba13206843c8cb39_v2-11f5b250589ab4e8113f841a9805cbe6_1440w_source=2c26e567.webp]]
+## 马里奥 3D 大陆
+![[edda4d80ba41f3ae7e11f0d24f9c5102_v2-723a0548345c2cfe5c30ac1c5c1af96f_1440w_source=2c26e567.webp]]
+## 勇者斗恶龙 11
+![[ea45ac1a4218304ce024c6ef5abb67ae_v2-edb42824debe3dce48f0025231a04999_1440w_source=2c26e567.webp]]
+## 路易的鬼屋
+![[86b79c42c7a9d37f69f17ec43c4b16a5_v2-58bf127321c66752d476adac0c224fd3_1440w_source=2c26e567.webp]]
+## ## 火焰之纹章 if
+![[8394a59ae605601f4b252e73a9cc1022_v2-cdb747fcac558dd70c6d5911c67d6cbd_1440w_source=2c26e567.webp]]

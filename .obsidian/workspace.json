@@ -1,56 +1,84 @@
 {
   "main": {
-    "id": "1fee0a23d7e1c200",
+    "id": "65a7d54d45a2eaa7",
     "type": "split",
     "children": [
       {
-        "id": "97747f8ee1313730",
+        "id": "1c7b70fb7643a055",
         "type": "tabs",
         "children": [
           {
-            "id": "620541e4fe26bb0d",
+            "id": "f033c595ed5ad244",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STUDY/Notes/K8S学习笔记.md",
+                "file": "文件链接测试用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "K8S学习笔记"
+              "title": "文件链接测试用"
             }
           },
           {
-            "id": "b7819d0b4b1a4352",
+            "id": "d03fb7025c93bdfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络.md",
+                "file": "MarkDown常用语法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "计算机网络"
+              "title": "MarkDown常用语法"
+            }
+          },
+          {
+            "id": "abb63ef738c2daea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3ds游戏.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3ds游戏"
+            }
+          },
+          {
+            "id": "53e9ecb069c6effe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3ds游戏.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3ds游戏"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7f27474b13d90d56",
+    "id": "5afe00271435c127",
     "type": "split",
     "children": [
       {
-        "id": "a9d52c6001edf1d5",
+        "id": "7036a7858fbd9288",
         "type": "tabs",
         "children": [
           {
-            "id": "51612e2ed88bcb44",
+            "id": "7dac171567afe1a4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +90,7 @@
             }
           },
           {
-            "id": "39a363dca4845c5d",
+            "id": "714bf0e6efe6ecef",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -75,17 +103,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "搜索"
             }
           },
           {
-            "id": "cc804117154e2bf1",
+            "id": "078ad35c37fbf9b6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "书签"
             }
           }
         ]
@@ -95,20 +123,20 @@
     "width": 300
   },
   "right": {
-    "id": "2f470a83f1b9ec21",
+    "id": "f01eb6834abad211",
     "type": "split",
     "children": [
       {
-        "id": "1c82e26b3e6711fd",
+        "id": "d0c2dbd06c111def",
         "type": "tabs",
         "children": [
           {
-            "id": "3fd080e987363747",
+            "id": "911ea157a02d8722",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STUDY/Notes/飞霄.md",
+                "file": "Excalidraw/Drawing 2024-10-31 00.25.44.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,25 +146,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 飞霄"
+              "title": "Drawing 2024-10-31 00.25.44.excalidraw 的反向链接列表"
             }
           },
           {
-            "id": "c8cad183ea29997e",
+            "id": "173bc9698d068bff",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STUDY/Notes/飞霄.md",
+                "file": "欢迎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 飞霄"
+              "title": "欢迎 的出链列表"
             }
           },
           {
-            "id": "a864ee79e5e57f83",
+            "id": "cd2979a5c0918a99",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,65 +173,74 @@
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "标签"
             }
           },
           {
-            "id": "a9c2bd293ceaa827",
+            "id": "296783b6ef41ee67",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "STUDY/Notes/飞霄.md"
+                "file": "欢迎.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 飞霄"
+              "title": "欢迎 的大纲"
+            }
+          },
+          {
+            "id": "76c9c015e42f4c7d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "remotely-save:Remotely Save": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b7819d0b4b1a4352",
+  "active": "abb63ef738c2daea",
   "lastOpenFiles": [
-    "brandoree/test.txt",
-    "brandoree/README.md",
-    "brandoree",
-    "Pasted image 20241106113235.png",
-    "Pasted image 20241106112351.png",
-    "STUDY/Notes/K8S学习笔记.md",
-    "计算机网络.md",
-    "STUDY/Notes/Linux命令.md",
-    "STUDY/Notes/Nginx.md",
-    "STUDY/Notes/RestFul.md",
-    "STUDY/Notes/学习方案.md",
-    "STUDY/Notes/欢迎.md",
-    "STUDY/Notes/飞霄.md",
-    "STUDY/Picture/3ee91afca070f7a91544d0e7cff92424_format,png.png",
-    "STUDY/Picture/0abf9f7a9a240278875b954957dfa06d_format,png.png",
-    "STUDY/星铁攻略/黄泉攻略.md",
-    "STUDY/Picture/Pasted image 20241101175810.png",
-    "STUDY/Picture/Pasted image 20241101170645.png",
-    "STUDY/Picture/Pasted image 20241101165225.png",
-    "STUDY/Picture/Pasted image 20241101164953.png",
-    "STUDY/Picture/Pasted image 20241101155422.png",
-    "STUDY/Picture/Pasted image 20241101140927.png",
-    "STUDY/星铁攻略",
-    "STUDY/Picture",
-    "STUDY/Notes",
-    "STUDY"
+    "文件链接测试用.md",
+    "MarkDown常用语法.md",
+    "3ds游戏.md",
+    "pictures/8394a59ae605601f4b252e73a9cc1022_v2-cdb747fcac558dd70c6d5911c67d6cbd_1440w_source=2c26e567.webp",
+    "pictures/86b79c42c7a9d37f69f17ec43c4b16a5_v2-58bf127321c66752d476adac0c224fd3_1440w_source=2c26e567.webp",
+    "pictures/ea45ac1a4218304ce024c6ef5abb67ae_v2-edb42824debe3dce48f0025231a04999_1440w_source=2c26e567.webp",
+    "pictures/edda4d80ba41f3ae7e11f0d24f9c5102_v2-723a0548345c2cfe5c30ac1c5c1af96f_1440w_source=2c26e567.webp",
+    "pictures/00351f62f9280a41ba13206843c8cb39_v2-11f5b250589ab4e8113f841a9805cbe6_1440w_source=2c26e567.webp",
+    "pictures/c8ddd1001bb44fe8901615f69bd333c0_v2-4465547b7903ef6cfa7a64e57a0b2e0e_1440w_source=2c26e567.webp",
+    "pictures/2c8e9e82a7b976f49f8d1ff302b5c153_v2-d5c3f86107a67ce40381978f98089719_1440w_source=2c26e567.webp",
+    "pictures/81b75677d8826da9b8e04daa63acf0fd_v2-c80307ff13a0eeca96264308ad829773_1440w_source=2c26e567 1.webp",
+    "pictures/81b75677d8826da9b8e04daa63acf0fd_v2-c80307ff13a0eeca96264308ad829773_1440w_source=2c26e567.webp",
+    "Excalidraw/Drawing 2024-10-31 00.25.44.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-31 00.16.01.excalidraw.md",
+    "Excalidraw",
+    "未命名.canvas",
+    "templates",
+    "pictures/GEWH3zMacAAZ1Kf - 副本 1.jpg",
+    "pictures",
+    "新建文件夹",
+    "创建链接.md",
+    "欢迎.md"
   ]
 }
