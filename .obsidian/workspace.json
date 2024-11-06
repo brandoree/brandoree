@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "1fee0a23d7e1c200",
+    "type": "split",
+    "children": [
+      {
+        "id": "97747f8ee1313730",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "620541e4fe26bb0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STUDY/Notes/K8S学习笔记.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "K8S学习笔记"
+            }
+          },
+          {
+            "id": "b7819d0b4b1a4352",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机网络.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "计算机网络"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f27474b13d90d56",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9d52c6001edf1d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51612e2ed88bcb44",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "39a363dca4845c5d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cc804117154e2bf1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2f470a83f1b9ec21",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c82e26b3e6711fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fd080e987363747",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "STUDY/Notes/飞霄.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 飞霄"
+            }
+          },
+          {
+            "id": "c8cad183ea29997e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "STUDY/Notes/飞霄.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 飞霄"
+            }
+          },
+          {
+            "id": "a864ee79e5e57f83",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a9c2bd293ceaa827",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "STUDY/Notes/飞霄.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 飞霄"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b7819d0b4b1a4352",
+  "lastOpenFiles": [
+    "brandoree/test.txt",
+    "brandoree/README.md",
+    "brandoree",
+    "Pasted image 20241106113235.png",
+    "Pasted image 20241106112351.png",
+    "STUDY/Notes/K8S学习笔记.md",
+    "计算机网络.md",
+    "STUDY/Notes/Linux命令.md",
+    "STUDY/Notes/Nginx.md",
+    "STUDY/Notes/RestFul.md",
+    "STUDY/Notes/学习方案.md",
+    "STUDY/Notes/欢迎.md",
+    "STUDY/Notes/飞霄.md",
+    "STUDY/Picture/3ee91afca070f7a91544d0e7cff92424_format,png.png",
+    "STUDY/Picture/0abf9f7a9a240278875b954957dfa06d_format,png.png",
+    "STUDY/星铁攻略/黄泉攻略.md",
+    "STUDY/Picture/Pasted image 20241101175810.png",
+    "STUDY/Picture/Pasted image 20241101170645.png",
+    "STUDY/Picture/Pasted image 20241101165225.png",
+    "STUDY/Picture/Pasted image 20241101164953.png",
+    "STUDY/Picture/Pasted image 20241101155422.png",
+    "STUDY/Picture/Pasted image 20241101140927.png",
+    "STUDY/星铁攻略",
+    "STUDY/Picture",
+    "STUDY/Notes",
+    "STUDY"
+  ]
+}
